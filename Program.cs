@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.SetCursorPosition(20, 20);
+            Console.WriteLine("libuzsddlkjblbldfbjlkjdf");
         }
     }
 }
